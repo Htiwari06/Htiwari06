@@ -4,24 +4,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Final+Year+IT+Student;Software+Developer;MERN+Stack+Developer;Java+%7C+DSA+Enthusiast;Building+Scalable+Web+Applications" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/Htiwari06">
-    <img src="https://img.shields.io/github/followers/Htiwari06?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/himanshutiwari06/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://leetcode.com/u/Himanshu06_/">
-    <img src="https://img.shields.io/badge/LeetCode-1700+-FFA116?style=for-the-badge&logo=leetcode" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Htiwari06&style=for-the-badge" />
-</p>
-
 ---
 
 # 👨‍💻 About Me
 
-- 🎓 Final Year B.Tech (Information Technology)
+- 🎓 Final Year B.Tech (Information Technology) Student
 - 💻 Software Developer
 - 🌐 MERN Stack Developer
 - ☕ Java for Data Structures & Algorithms
