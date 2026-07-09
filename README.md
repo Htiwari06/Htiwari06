@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="./banner.png" alt="Himanshu Tiwari Banner" width="100%" />
-</p>
+</p> -->
 # Hi 👋, I'm Himanshu Tiwari
 
 <p align="center">
