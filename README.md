@@ -1,10 +1,6 @@
 # Hi 👋, I'm Himanshu Tiwari
 
 <p align="center">
-  <img src="./banner.png" alt="Himanshu Tiwari Banner" width="100%" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Final+Year+IT+Student;Software+Developer;MERN+Stack+Developer;Java+%7C+DSA+Enthusiast;Building+Scalable+Web+Applications" />
 </p>
 
@@ -23,15 +19,15 @@
 
 ---
 
-# 💫 About Me
+# 👨‍💻 About Me
 
-- 🎓 Final Year B.Tech (Information Technology) Student
-- 💻 Passionate Software Developer
+- 🎓 Final Year B.Tech (Information Technology)
+- 💻 Software Developer
 - 🌐 MERN Stack Developer
 - ☕ Java for Data Structures & Algorithms
 - 🏆 1700+ Rated on LeetCode
 - 📚 Solved 300+ DSA Problems
-- 🌱 Currently learning Backend Architecture, System Design & Cloud
+- 🌱 Learning Backend Architecture, System Design & Cloud
 - 🎯 Looking for Software Engineering Opportunities
 
 ---
@@ -74,14 +70,14 @@
 
 ## 🌦 ForecastIQ
 
-A modern weather intelligence platform providing:
+A weather intelligence platform featuring:
 
-- Real-time Weather Forecast
+- Real-time Weather
 - Air Quality Index
 - Browser Geolocation
-- Search History
 - Glassmorphism UI
-- Dark / Light Theme
+- Search History
+- Dark / Light Mode
 
 **Tech Stack:** JavaScript • HTML • CSS • REST APIs
 
@@ -95,14 +91,15 @@ https://superb-sopapillas-980c9e.netlify.app/
 
 ## 🐶 MyPET
 
-A MERN-based pet identification platform featuring:
+A MERN-based pet identification platform.
+
+### Features
 
 - JWT Authentication
 - QR Code Generation
 - Pet Registration
 - Nearby Veterinary Finder
 - Interactive Maps
-- Secure MongoDB Backend
 
 **Tech Stack:** React • Node.js • Express.js • MongoDB • JWT • Leaflet
 
@@ -114,38 +111,13 @@ https://mypetfrontend1.vercel.app/
 
 ---
 
-# 📊 GitHub Stats
+# 🎯 Current Goals
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Htiwari06&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Htiwari06&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Htiwari06&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 💻 LeetCode
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Himanshu06_?theme=dark&font=Poppins&ext=contest" />
-</p>
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Solve 500+ DSA Problems
-- 🚀 Master System Design
-- 🌐 Contribute to Open Source
-- 💼 Build Production Ready Projects
-- 🎯 Secure a Software Engineer Role
+- 🚀 Solve 500+ DSA Problems
+- 📚 Master System Design
+- 🌍 Contribute to Open Source
+- 💼 Build Production Ready Applications
+- 🎯 Crack a Software Engineer Role
 
 ---
 
@@ -160,8 +132,4 @@ https://mypetfrontend1.vercel.app/
 
 <p align="center">
 ⭐ Thanks for visiting my profile!
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=120&section=footer"/>
 </p>
